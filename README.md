@@ -5,4 +5,4 @@ Lien vers notre questionnairepour pour l'étude marketing : https://docs.google.
 
 Lien vers le manuel des usagers finaux : https://aideetudiants.github.io/PageWebUtilisateurs/
 
-Lien vers les vidéos du site : https://drive.google.com/file/d/1ohMrrsWFv9BR_OD409AwJpMl_RsyLcRa/view?pli=1
+Lien vers la vidéo complète du site : https://drive.google.com/file/d/1ohMrrsWFv9BR_OD409AwJpMl_RsyLcRa/view?pli=1
